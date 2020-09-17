@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name BarRobot-eagle-import)(type Legacy)(uri ${KIPRJMOD}/BarRobot-eagle-import.lib)(options "")(descr ""))
+)
